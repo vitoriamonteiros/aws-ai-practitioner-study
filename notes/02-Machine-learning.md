@@ -1,4 +1,4 @@
-# Machive Learning
+# Machine Learning
 ## Técnicas de Aprendizado em Machine Learning
 
 Escolher uma solução de Machine Learning não envolve apenas a tecnologia, mas também entender como o modelo aprende a partir dos dados. As técnicas de aprendizado definem a forma como o sistema encontra padrões e toma decisões sem precisar ser programado explicitamente para cada regra.
