@@ -1,6 +1,9 @@
 # Machine Learning
 ## Técnicas de Aprendizado em Machine Learning
 
+<img width="1024" height="290" alt="image" src="https://github.com/user-attachments/assets/0978d7e0-7801-4104-a62e-8621d097fb35" />
+
+
 Escolher uma solução de Machine Learning não envolve apenas a tecnologia, mas também entender como o modelo aprende a partir dos dados. As técnicas de aprendizado definem a forma como o sistema encontra padrões e toma decisões sem precisar ser programado explicitamente para cada regra.
 
 ### Aprendizado Supervisionado
@@ -13,6 +16,8 @@ Nesta técnica, os dados de treinamento possuem rótulos, ou seja, a resposta co
 
 > 💡 Pense assim: alguém ensina o modelo mostrando a resposta certa.
 
+ ---
+
 ### Aprendizado Não Supervisionado
 Aqui, os dados não possuem rótulos. O modelo aprende identificando padrões, agrupamentos ou anomalias de forma automática.
 
@@ -23,6 +28,8 @@ Aqui, os dados não possuem rótulos. O modelo aprende identificando padrões, a
 
 > 💡 Pense assim: ninguém disse o que é certo, o modelo descobre sozinho.
 
+ ---
+ 
 ### Aprendizado por Reforço
 O modelo aprende por meio de tentativa e erro. Ele interage com um ambiente e recebe recompensas ou penalidades com base em suas ações, buscando maximizar a recompensa ao longo do tempo.
 
